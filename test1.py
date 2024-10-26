@@ -1,5 +1,5 @@
 def dosomething():
-    print("Hello World")
+    print("Hello Wor")
 
 
 dosomething()
